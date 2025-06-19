@@ -57,9 +57,13 @@ const App = () => {
           Brodin
         </p>
         <div>
-          <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut nostrum aliquam laboriosam sit ipsum commodi placeat facilis nisi amet, perferendis magnam hic dolores quas aperiam quo id optio quasi! Deserunt.</p>
-          <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut nostrum aliquam laboriosam sit ipsum commodi placeat facilis nisi amet, perferendis magnam hic dolores quas aperiam quo id optio quasi! Deserunt.</p>
-          <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut nostrum aliquam laboriosam sit ipsum commodi placeat facilis nisi amet, perferendis magnam hic dolores quas aperiam quo id optio quasi! Deserunt.</p>
+          <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">
+            This is a simple example of a card component using Tailwind CSS and React.
+          </p>
+          <hr />
+          <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">
+            You can customize it further by adding more styles or components.
+          </p>
         </div>
       </div>
     </>
