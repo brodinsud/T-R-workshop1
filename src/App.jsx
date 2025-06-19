@@ -57,7 +57,7 @@ const App = () => {
     Brodin
   </p>
   <div>
-    <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">
+    <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut nostrum aliquam laboriosam sit ipsum commodi placeat facilis nisi amet, perferendis magnam hic dolores quas aperiam quo id optio quasi! Deserunt.</p>
   </div>
 </div>
     </>
