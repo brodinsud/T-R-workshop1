@@ -56,7 +56,9 @@ const App = () => {
   <p class="text-gray-500 dark:text-gray-400 mt-2 text-sm ">
     Brodin
   </p>
-  <h3>สวัสดี</h3>
+  <div>
+    <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm">
+  </div>
 </div>
     </>
   )
